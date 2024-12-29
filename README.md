@@ -8,9 +8,9 @@ https://assets.ccbp.in/frontend/intermediate-rwd/musical-night-2-img.png
 https://assets.ccbp.in/frontend/intermediate-rwd/musical-night-3-img.png
 
 ## CSS Colors used:
-'#12022f'
-'#ffffff'
-'#d3d3d3'
+'#12022f' <br>
+'#ffffff' <br>
+'#d3d3d3' <br>
 '#594d6d'
 
 ## CSS Font families used:
